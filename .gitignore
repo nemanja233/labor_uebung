@@ -1,2 +1,4 @@
 *.log
 my_passwords.txt
+*.odt
+*.tmp
