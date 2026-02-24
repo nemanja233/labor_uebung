@@ -9,7 +9,7 @@ def say_hi():
         i+=1
 
 
-button = ctk.CTkButton(app, text="push me", command=say_hi)
+button = ctk.CTkButton(app, text="push me", command=say_hi, hover_color="green")
 button.grid(row=0, column=0, padx=20, pady=20)
 
 
