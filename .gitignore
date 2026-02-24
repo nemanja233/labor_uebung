@@ -1,2 +1,3 @@
 *.log
 my_passwords.txt
+*.tmp
